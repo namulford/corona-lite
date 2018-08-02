@@ -72,7 +72,7 @@ class Random extends Component {
                 <div className="Random" align='center'>
                     <h1 align='center'>Welcome to the NFL Team Randomizer!!</h1>
                     <IconHeader />
-                    <h2>Randomly select an NFL team to view player arrests</h2>
+                    <h2>Select an NFL team to view player arrests</h2>
                     <div>
                         <Dropdown
                             closeOnChange={true}
