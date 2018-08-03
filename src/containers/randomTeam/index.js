@@ -82,7 +82,7 @@ class Random extends Component {
                             onChange={this.handleChange}
                         />
                     </div>
-                <input type="submit" value="Submit" />
+                <input type="submit" value="Enter" />
                 </div>
                 <div>
                     {this.state.loading
